@@ -16,7 +16,7 @@
           <h3><i class="fas fa-exclamation-triangle text-warning"></i> Oops! Page not found.</h3>
 
           <p>
-            gffsthdjyy <a href="../../index.html">return to dashboard</a> .
+            Page not found! <a href="../../index.html">return to dashboard</a> .
           </p>
 
           
