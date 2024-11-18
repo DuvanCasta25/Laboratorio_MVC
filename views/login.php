@@ -82,12 +82,6 @@
               }
           ?>
 
-      <p class="mb-1">
-        <a href="forgot-password.html">Olvidar Contraseña</a>
-      </p>
-      <p class="mb-0">
-        <a href="register.html" class="text-center">Registrar usuario nuevo</a>
-      </p>
     </div>
     <!-- /.login-card-body -->
   </div>
